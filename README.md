@@ -35,7 +35,7 @@ Budgets and Profits and Popularity and Profits are both moderately correlated. H
 Over the span of 55 years, adventure movies made the most profits, followed by action and comedy.
 
 
-## Summary and Conclusion
+## Sources
 
 The following are sources used for research during this project: 
 
